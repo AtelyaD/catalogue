@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atelyad.github.io/catalogue/sitemap.xml
